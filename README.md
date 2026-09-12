@@ -6,6 +6,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Classification-red.svg)
 ![EEG](https://img.shields.io/badge/Domain-EEG%20Analysis-purple.svg)
 
+<p align="center">
+  <img src="COVER.png" alt="EEG Seizure Detection Banner" width="100%">
+</p>
+
 ## Overview
 
 This project explores **EEG-based seizure detection using ML algorithms**. The workflow includes exploratory data analysis, visualization of EEG-derived features, correlation analysis, binary-label construction, class-imbalance handling, feature standardization, training of multiple classifiers, and comparative model evaluation.
