@@ -244,21 +244,6 @@ These extensions would make the pipeline more robust and improve its value as an
 
 ---
 
-## Project Scope
-
-This repository should be considered an **EEG machine-learning classification project**, rather than a complete EEG signal-processing pipeline. The current implementation primarily focuses on statistical exploration, class balancing, preprocessing, classical machine learning, and model comparison.
-
----
-
-## Author
-
-**Shayan Rokhva**  
-Research interests: Machine Learning, Deep Learning, Computer Vision, Medical AI, and Data Science
-
-📧 **Email:** [Shayanrokhva1999@gmail.com](mailto:Shayanrokhva1999@gmail.com)
-
----
-
 ## Disclaimer
 
 This project is intended for **research and educational purposes only**. It is not designed or validated for clinical diagnosis, medical decision-making, or real-world patient care.
