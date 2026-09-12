@@ -243,7 +243,4 @@ This project is intended as a machine-learning exploration of EEG classification
 These extensions would make the pipeline more robust and improve its value as an EEG machine-learning study.
 
 ---
-
-## Disclaimer
-
-This project is intended for **research and educational purposes only**. It is not designed or validated for clinical diagnosis, medical decision-making, or real-world patient care.
+Shayan Rokhva
